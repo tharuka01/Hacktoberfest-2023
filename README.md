@@ -14,6 +14,8 @@
 
 :star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
+# Don't forget to add your name in [contributors](https://github.com/ishaangupta-YB/Hacktoberfest-2022/tree/main/contributors) folder
+
 :star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
@@ -179,10 +181,3 @@ We love to have `articles` and `codes` in different languages and the `bettermen
 Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
-
-## 🤩 Awesome contributors:
-<a href="https://github.com/ishaangupta-YB/Hacktoberfest-2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ishaangupta-YB/Hacktoberfest-2022" />
-</a>
-
-Generated using [contributors-img](https://contributors-img.web.app).
