@@ -13,7 +13,7 @@
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
-:star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+:star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 :star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
