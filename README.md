@@ -80,7 +80,7 @@ origin  https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
 origin  https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 ```
 
-Now, let's add a reference to the original [Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022/) repository using
+Now, let's add a reference to the original [Hacktoberfest-2022](https://github.com/ishaangupta-YB/Hacktoberfest-2022/) repository using
 
 ```sh
 $ git remote add upstream https://github.com/ishaangupta-YB/Hacktoberfest-2022.git
