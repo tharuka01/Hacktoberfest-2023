@@ -13,25 +13,13 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 3. Append your details to  `contributors.json` file in the below format:
 ```
 {
-    "github-username": "YOUR-GITHUB-USERNAME",
-    "favourite-emoji": "YOUR-FAVOURITE-EMOJI",
-    "favourite-music": "YOUR-FAVOURITE-MUSIC-URL,
-    "favourite-color": "YOUR-FAVOURITE-COLOR"
+    "github-username": "YOUR-GITHUB-USERNAME" 
 }
 ```
 Note:
 ```
 "github-username" should be same as the one you're making the pull request from. 
-```
-```
-"favourite-emoji" can be any emoji supported by modern browsers. You can pick one from https://emojipedia.org/
-```
-```
-"favourite-music" can be any song from https://soundcloud.com/
-```
-```
-"favourite-color" can be any color in hex format (example: #fff44f). You can pick a colour from https://www.google.com/search?q=color+picker
-```
+``` 
 4. Push to your fork and [submit a pull request](https://github.com/ishaangupta-YB/Hacktoberfest-2022/compare)
 5. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
