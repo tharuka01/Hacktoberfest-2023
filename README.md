@@ -180,3 +180,10 @@ We love to have `articles` and `codes` in different languages and the `bettermen
 Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
+
+## 🤩 Awesome contributors:
+<a href="https://github.com/ishaangupta-YB/Hacktoberfest-2022/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ishaangupta-YB/Hacktoberfest-2022" />
+</a>
+
+Generated using [contributors-img](https://contributors-img.web.app).
