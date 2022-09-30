@@ -46,7 +46,7 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) by using the <a href="https://github.com/kishanrajput23/Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [HacktoberFest-2022](https://github.com/ishaangupta-YB/Hacktoberfest-2022) by using the <a href="https://github.com/ishaangupta-YB/Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -83,7 +83,7 @@ origin  https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 Now, let's add a reference to the original [Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022/) repository using
 
 ```sh
-$ git remote add upstream https://github.com/kishanrajput23/Hacktoberfest-2022.git
+$ git remote add upstream https://github.com/ishaangupta-YB/Hacktoberfest-2022.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -102,8 +102,8 @@ upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (push)
 $ git remote -V
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
-upstream  https://github.com/kishanrajput23/Hacktoberfest-2022.git (fetch)
-upstream  https://github.com/kishanrajput23/Hacktoberfest-2022.git (push)
+upstream  https://github.com/ishaangupta-YB/Hacktoberfest-2022.git (fetch)
+upstream  https://github.com/ishaangupta-YB/Hacktoberfest-2022.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -127,7 +127,7 @@ $ git push origin main
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/kishanrajput23/Hacktoberfest-2022/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/ishaangupta-YB/Hacktoberfest-2022/pulls).
 
 ### 6. Create a new branch :bangbang:
 
