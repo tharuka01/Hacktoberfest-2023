@@ -1,10 +1,3 @@
-// Time Complexity
-// Worst Case O(n^2)
-// Average Case θ(n^2)
-// Best Case Ω(n)
-
-// Space Complexity O(1)
-
 #include<bits/stdc++.h>
 using namespace std;
 
