@@ -1,13 +1,5 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+Website Link : https://amanj-18.github.io/Personal-Portfolio/
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+key Features : Home , Aboutme , Skills , Services , Projects , Qualification , testimonial , contactme .
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![preview img](/preview.png)
+Description : This is my personal portfolio website . You can get my information by visiting the site , you can also download my resume and can contact me if any query present . Many more are yet to add in website .Also there is a dark as well as light mode . 
