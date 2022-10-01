@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	top: 0;
+	box-sizing: border-box;
+}
+body
+{
+	background: #fc53fc;
+}
+.container{
+	position: relative;
+	width: 350px;
+	height: 300px;
+}
+.card{
+	width: 52%;
+	height: 300px;
+	border-radius: 35px;
+	float: left;
+	margin: 10px;
+	box-shadow: inset 5px 5px 15px rgba(0,0,0,0.15), inset -5px -5px 15px rgba(255,255,255,0.15),
+	5px 5px 15px rgba(0,0,0,0.15), -5px -5px 15px rgba(255,255,255,0.15) ;
+}
+.container a img::before{
+	content: '';
+	position: absolute;
+	inset: 5px;
+	background: #fff;
+	/* background-image: url("WD6.jfif"); */
+	cursor: pointer;
+	border-radius: 35px;
+	transition: 0.5s;
+}

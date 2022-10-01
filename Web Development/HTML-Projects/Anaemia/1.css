@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: montserrat;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background: #34495e;
+    margin-top: 0;
+}
+/* @font-face
+{
+    font-family: kuchbhi;
+    src: url("go3v2.ttf");
+} */
+label.logo{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    padding: 0 90px;
+    line-height: 80px;
+    cursor: pointer;
+    transition: transform 2s;
+}
+/* label.logo:hover{
+    transform: rotate(360deg);
+}
+nav ul{
+    float: right;
+    margin-right: 7px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+a:active,a:hover{
+    border: 1px solid white;
+    transition: .5s;
+}
+nav #icon{
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    float: right;
+    margin-right: 40px;
+    margin-right: 40px;
+    cursor: pointer; 
+    display: none; */
+}
