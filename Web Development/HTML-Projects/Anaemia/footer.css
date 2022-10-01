@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
 }
 footer {
-  background-color: aqua;
+  background-color: rgb(91, 219, 219);
   position: relative;
   width: 100%;
   min-height: 100px;
