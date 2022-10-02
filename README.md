@@ -100,7 +100,7 @@ upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (push)
 ```
 `In your case, you will see`
 ```sh
-$ git remote -V
+$ git remote -v
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 upstream  https://github.com/ishaangupta-YB/Hacktoberfest-2022.git (fetch)
