@@ -13,7 +13,7 @@ for i in root:
     data = {}
     for col in cols:
         data[col] = i.find(col).text
-        rows.append(data)
+    rows.append(data)
 
 df = pd.DataFrame(rows, columns=cols)
 
