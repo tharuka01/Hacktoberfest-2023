@@ -1,2 +1,4 @@
 exam=input('Enter The String')
-print(exam[ : :-1])
+examLength=len(exam)
+reverse_exam=exam[examLength::-1]
+print(reverse_exam)
