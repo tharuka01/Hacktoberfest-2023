@@ -3,8 +3,8 @@
  * for the best way to get target number from a given set of numbers.
  *
  * For example what is the best way to get a sum 8 using numbers [1, 2, 3].
- * Here 8 can be generated either by taking [2, 2, 2, 2] 0r [2, 3, 3].
- * As second array is the optimal solution.
+ * Here 8 can be generated in many ways ([2, 2, 2, 2], [2, 3, 3], etc...)
+ * Out of which [2, 3, 3] is the optimal solution.
  *
  * Similarly we can use this to solve coin change problem.
  * from given set of coins find optimal way to get desired sum.
