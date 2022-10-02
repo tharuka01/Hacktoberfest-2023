@@ -184,8 +184,8 @@ Please discuss it with us first by creating a new issue.
 
 ## Contributors:
 
-<a href="https://github.com/ishaangupta-YB/Hacktoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ishaangupta-YB/Hacktoberfest-2022" />
+<a href="https://github.com/ishaangupta-yb/hacktoberfest-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ishaangupta-yb/hacktoberfest-2022" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
