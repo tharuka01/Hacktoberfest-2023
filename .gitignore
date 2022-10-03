@@ -1,1 +1,4 @@
 .DS_Store
+
+C/linked-list/linked_list
+C/linked-list/dist/*.o
