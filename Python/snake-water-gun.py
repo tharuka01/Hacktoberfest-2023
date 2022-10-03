@@ -16,7 +16,7 @@ def intro():
 
     sleep(1.5)  # Making program to sleep to print next statement after sometime
 
-    print(cyan("GAME DEVELOPED BY - 👑 AKSHAT DODHIYA 👑".center(columns)))  # Printing the name of the developer
+    print(cyan("GAME DEVELOPED BY - 👑 KRISH JAIN👑".center(columns)))  # Printing the name of the developer
 
     sleep(2)  # Making program to sleep to execute next part of the program after sometime
 
@@ -56,11 +56,11 @@ def results():
             print(yellow("AWWW...!!"), emojize(":neutral_face:"), yellow("\nTWO SNAKES HAD BITTEN EACH OTHER :/"))
 
         elif user_choice == "w" or user_choice == "water":
-            print(red("NOOO...!!"), emojize(":crying_face:"), red("\nTHE SNAKE DRANK YOUR WATER :("))
+            print(red("NOOO...!!"), emojize(":crying_face:"), red("\nTHE SNAKE DRANK ALL OF YOUR WATER :("))
             computer_points += 1  # Incrementing computer_points by one
 
         elif user_choice == "g" or user_choice == "gun":
-            print(green("YEAH...!!"), emojize(":victory_hand:"), green("\nYOU SHOT THE SNAKE BY GUN  :)"))
+            print(green("YEAH...!!"), emojize(":victory_hand:"), green("\nYOU SHOT THE SNAKE BY  A GUN  :)"))
             user_points += 1  # Incrementing user_points by one
 
         else:
@@ -69,14 +69,14 @@ def results():
 
     elif computer_choice == "Water":
         if user_choice == "s" or user_choice == "snake":
-            print(green("YEAH...!!"), emojize(":victory_hand:"), green("\nYOUR SNAKE DRANK THE WATER :)"))
+            print(green("YEAH...!!"), emojize(":victory_hand:"), green("\nYOUR SNAKE ALL OF DRANK THE WATER :)"))
             user_points += 1  # Incrementing user_points by one
 
         elif user_choice == "w" or user_choice == "water":
             print(yellow("AWWW...!!"), emojize(":neutral_face:"), yellow("\nWATER IS INCREASED :/"))
 
         elif user_choice == "g" or user_choice == "gun":
-            print(red("NOOO...!!"), emojize(":crying_face:"), red("\nYOUR GUN SANK INTO THE WATER :("))
+            print(red("NOOO...!!"), emojize(":crying_face:"), red("\nYOUR GUN SANK INTO THE WATER AND DIED :("))
             computer_points += 1  # Incrementing computer_points by one
 
         else:
